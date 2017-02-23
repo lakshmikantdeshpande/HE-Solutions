@@ -1,0 +1,17 @@
+package a_Basics_Of_Programming;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+public class Toggle_String {
+	public static void main(String args[]) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder strb = new StringBuilder(br.readLine());
+		
+		for (int i = 0; i < strb.size(); i++) {
+			strb.charAt(i).toUpperCase();
+		}
+		
+		Char.to
+	}
+}

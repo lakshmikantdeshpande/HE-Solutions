@@ -1,0 +1,13 @@
+package a_Basics_Of_Programming;
+
+public class Palindromic_String {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

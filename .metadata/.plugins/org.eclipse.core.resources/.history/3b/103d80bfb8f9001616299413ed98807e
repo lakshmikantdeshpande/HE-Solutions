@@ -1,0 +1,13 @@
+package a_Basics_Of_Programming;
+
+public class Roy_and_Profile_Picture {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
