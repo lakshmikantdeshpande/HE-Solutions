@@ -1,4 +1,4 @@
-package a_Basics_Of_Programming;
+package a_Basics_Of_Programming.a_Basic_Of_Input_Output;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
