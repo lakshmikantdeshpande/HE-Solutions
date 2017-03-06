@@ -2,7 +2,6 @@ package a_Basics_Of_Programming.b_Basics_of_Implementation;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class Game_Of_XOR {
 	public static void main(String args[]) throws Exception {
