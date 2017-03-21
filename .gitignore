@@ -24,4 +24,4 @@ tmp/
 .settings/
 .classpath
 #.loadpath
-#.recommenders
+.recommenders/
